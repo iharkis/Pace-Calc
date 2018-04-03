@@ -1,0 +1,72 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html	C:\Users\Iain\Documents\code\pace calc\index.html	/^<html>$/;"	function	line:1
+head	C:\Users\Iain\Documents\code\pace calc\index.html	/^<head>$/;"	function	line:3
+script	C:\Users\Iain\Documents\code\pace calc\index.html	/^  <script src="https:\/\/code.jquery.com\/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr\/rE9\/Qpg6aAZGJwFDMVNA\/GpGFF93hXpG5KkN" crossorigin="anonymous"><\/script>$/;"	function	line:4
+script	C:\Users\Iain\Documents\code\pace calc\index.html	/^  <script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/popper.js\/1.12.9\/umd\/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K\/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"><\/script>$/;"	function	line:5
+script	C:\Users\Iain\Documents\code\pace calc\index.html	/^  <script src="https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/4.0.0\/js\/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe\/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"><\/script>$/;"	function	line:6
+link	C:\Users\Iain\Documents\code\pace calc\index.html	/^  <link rel="stylesheet" href="https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/4.0.0\/css\/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW\/dAiS6JXm" crossorigin="anonymous">$/;"	function	line:7
+link	C:\Users\Iain\Documents\code\pace calc\index.html	/^  <link href="https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.7.0\/css\/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">$/;"	function	line:8
+link	C:\Users\Iain\Documents\code\pace calc\index.html	/^  <link href=".\\styles\\site.css" rel="stylesheet" \/>$/;"	function	line:9
+body	C:\Users\Iain\Documents\code\pace calc\index.html	/^<body>$/;"	function	line:12
+nav	C:\Users\Iain\Documents\code\pace calc\index.html	/^  <nav class="navbar navbar-expand-lg navbar-light bg-light">$/;"	function	line:13
+a	C:\Users\Iain\Documents\code\pace calc\index.html	/^    <a class="navbar-brand" href="#">Navbar<\/a>$/;"	function	line:14
+button	C:\Users\Iain\Documents\code\pace calc\index.html	/^    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">$/;"	function	line:15
+span	C:\Users\Iain\Documents\code\pace calc\index.html	/^    <span class="navbar-toggler-icon"><\/span>$/;"	function	line:16
+div	C:\Users\Iain\Documents\code\pace calc\index.html	/^    <div class="collapse navbar-collapse" id="navbarSupportedContent">$/;"	function	line:19
+ul	C:\Users\Iain\Documents\code\pace calc\index.html	/^      <ul class="navbar-nav mr-auto">$/;"	function	line:20
+li	C:\Users\Iain\Documents\code\pace calc\index.html	/^        <li class="nav-item active">$/;"	function	line:21
+a	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <a class="nav-link" href="#">Home <span class="sr-only">(current)<\/span><\/a>$/;"	function	line:22
+li	C:\Users\Iain\Documents\code\pace calc\index.html	/^        <li class="nav-item">$/;"	function	line:24
+a	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <a class="nav-link" href="#">Link<\/a>$/;"	function	line:25
+div	C:\Users\Iain\Documents\code\pace calc\index.html	/^  <div class="container">$/;"	function	line:34
+div	C:\Users\Iain\Documents\code\pace calc\index.html	/^    <div class="row">$/;"	function	line:35
+div	C:\Users\Iain\Documents\code\pace calc\index.html	/^      <div class="main col-sm-12 col-md-8">$/;"	function	line:36
+h	C:\Users\Iain\Documents\code\pace calc\index.html	/^        <h1 class="font-weight-light">Pace Calculator<\/h1>$/;"	function	line:37
+p	C:\Users\Iain\Documents\code\pace calc\index.html	/^        <p>Use the calculator below to calculate paces and other related running metrics<\/p>$/;"	function	line:38
+div	C:\Users\Iain\Documents\code\pace calc\index.html	/^        <div class="d-flex justify-content-between mb-3">$/;"	function	line:40
+div	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <div id="marathonSelect" class="badge badge-success mr-2">$/;"	function	line:41
+h	C:\Users\Iain\Documents\code\pace calc\index.html	/^            <h6>Marathon<\/h6>$/;"	function	line:42
+div	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <div id="halfMarathonSelect" class="badge badge-success mr-2">$/;"	function	line:44
+h	C:\Users\Iain\Documents\code\pace calc\index.html	/^            <h6>Half-Marathon<\/h6>$/;"	function	line:45
+div	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <div id="10kSelect" class="badge badge-success mr-2">$/;"	function	line:47
+h	C:\Users\Iain\Documents\code\pace calc\index.html	/^            <h6>10k<\/h6>$/;"	function	line:48
+div	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <div id="5kSelect" class="badge badge-success">$/;"	function	line:50
+h	C:\Users\Iain\Documents\code\pace calc\index.html	/^            <h6>5k<\/h6>$/;"	function	line:51
+div	C:\Users\Iain\Documents\code\pace calc\index.html	/^        <div class="d-flex align-items-center mb-3 ">$/;"	function	line:54
+form	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <form class="form-inline mb-0">$/;"	function	line:55
+label	C:\Users\Iain\Documents\code\pace calc\index.html	/^            <label class="mr-2">Distance:<\/label>$/;"	function	line:56
+input	C:\Users\Iain\Documents\code\pace calc\index.html	/^            <input type="text" id="distance">$/;"	function	line:57
+label	C:\Users\Iain\Documents\code\pace calc\index.html	/^            <label class="mx-2">unit<\/label>$/;"	function	line:59
+select	C:\Users\Iain\Documents\code\pace calc\index.html	/^            <select id="units">$/;"	function	line:60
+option	C:\Users\Iain\Documents\code\pace calc\index.html	/^              <option value="km">km<\/option>$/;"	function	line:61
+option	C:\Users\Iain\Documents\code\pace calc\index.html	/^              <option value="miles">miles<\/option>$/;"	function	line:62
+button	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <button id="convert" class="btn btn-link btn-sm"><i class="fa fa-retweet mr-1"><\/i>recalculate distance<\/button>$/;"	function	line:66
+form	C:\Users\Iain\Documents\code\pace calc\index.html	/^        <form class="form-inline">$/;"	function	line:70
+label	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <label>Time:<\/label>$/;"	function	line:71
+input	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <input type="number" id="timeHours" placeholder="hh"> :$/;"	function	line:72
+input	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <input type="number" id="timeMinutes" placeholder="mm"> :$/;"	function	line:73
+input	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <input type="number" id="timeSeconds" placeholder="ss">$/;"	function	line:74
+form	C:\Users\Iain\Documents\code\pace calc\index.html	/^        <form>$/;"	function	line:76
+label	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <label>Pace:<\/label>$/;"	function	line:77
+input	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <input type="number" id="paceMinutes" placeholder="mm"> :$/;"	function	line:78
+input	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <input type="number" id="paceSeconds" placeholder="ss" value="0">$/;"	function	line:79
+button	C:\Users\Iain\Documents\code\pace calc\index.html	/^        <button id="paceCalc" class="btn btn-primary"><i class="fa fa-flash mr-1"><\/i>calculate pace<\/button>$/;"	function	line:83
+button	C:\Users\Iain\Documents\code\pace calc\index.html	/^        <button id="distanceCalc" class="btn btn-primary ml-3"><i class="fa fa--o mr-1"><\/i>Calculate distance<\/button>$/;"	function	line:86
+button	C:\Users\Iain\Documents\code\pace calc\index.html	/^        <button id="timeCalc" class="btn btn-primary ml-3"><i class="fa fa-clock-o mr-1"><\/i>Calculate time<\/button>$/;"	function	line:89
+div	C:\Users\Iain\Documents\code\pace calc\index.html	/^      <div class="aside col-md-4">$/;"	function	line:91
+div	C:\Users\Iain\Documents\code\pace calc\index.html	/^        <div class="row">$/;"	function	line:92
+h	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <h2 class="d-block">Splits<\/h2>$/;"	function	line:93
+p	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <p class="splitsDesc">$/;"	function	line:94
+button	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <button id="getSplits" class="btn btn-primary mb-2">Get splits<\/button>$/;"	function	line:97
+table	C:\Users\Iain\Documents\code\pace calc\index.html	/^          <table class="table table-striped">$/;"	function	line:99
+thead	C:\Users\Iain\Documents\code\pace calc\index.html	/^            <thead>$/;"	function	line:100
+tr	C:\Users\Iain\Documents\code\pace calc\index.html	/^              <tr>$/;"	function	line:101
+th	C:\Users\Iain\Documents\code\pace calc\index.html	/^                <th>$/;"	function	line:102
+th	C:\Users\Iain\Documents\code\pace calc\index.html	/^                <th>$/;"	function	line:105
+tbody	C:\Users\Iain\Documents\code\pace calc\index.html	/^            <tbody class="add">$/;"	function	line:110
+script	C:\Users\Iain\Documents\code\pace calc\index.html	/^  <script src=".\\js\\site.js"><\/script>$/;"	function	line:126
